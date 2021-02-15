@@ -1,6 +1,6 @@
 # killerwsp
 
-# killerwsp es una herramienta enfocada al ataque de cuentas, números y grupos de whatsapp.
+# ☠ killerwsp es una herramienta enfocada al ataque de cuentas, números y grupos de whatsapp. ☠
 
 Herramienta para destruir al enemigo, cuenta con 4 módulos para trabajar.
 
@@ -14,8 +14,7 @@ Herramienta para destruir al enemigo, cuenta con 4 módulos para trabajar.
 [4] BUZONEAR NÚMEROS (TENEMOS MÁS DE 30 BUZONES ACTIVOS) Con esta ópción podremos buzonear a números de 30 paises diferentes, lo que hace es una ataque de fuerza bruta a los buzones del número hasta lograr entrar, una vez dentro del buzón lo que hara es mostrarnos los mensajes de voz en un entorno grafico.
 
 
-skull_and_crossbonesINSTALACIÓN EN TERMUX O LINUX
-skull_and_crossbones
+💻 INSTALACIÓN EN TERMUX O LINUX 📲
 
 Si no tienes python instalalo con:
 
@@ -29,20 +28,20 @@ pkg install openssl
 
 Ahora clonamos con
 
-git clone https://github.com/Lac0lm3n4/anonyphish.git
+git clone https://github.com/Lac0lm3n4/killerwsp.git
 
-cd anonyphish
+cd killerwsp
 
 ls
 
-chmod 777 anonyphish.py
+chmod 777 killerwsp.py
 
-Y ejecutamos con python3 anonyphish.py
+Y ejecutamos con python3 killerwsp.py
 
 O
 
-python anonyphish.py
+python killerwsp.py
 
 No nos responsabilizamos de su uso
 
-CRACKING TEAMdark_sunglasses
+☠ CRACKING TEAM ☠
