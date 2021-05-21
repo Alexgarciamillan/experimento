@@ -1,5 +1,4 @@
-#!/bin/python
-# -*- coding: utf-8 -*-
+#!/bin/python3
 
 import os
 import time
